@@ -1,0 +1,6 @@
+[tool.poetry]
+name = "sellmate_automatic"
+version = "0.1.0"
+packages = [
+    { include = "app" }
+]
